@@ -1,0 +1,6 @@
+Requirements:
+
+Python
+Flask
+Pyodbc
+Microsoft Access
